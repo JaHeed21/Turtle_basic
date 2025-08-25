@@ -1,7 +1,7 @@
 import turtle
 
 # Create and setup the turtle
-//t = turtle.Turtle(asif change).......................................
+//t = turtle.Turtle(asif also rayhan changeds).......................................
 t.speed(3)
 t.pensize(5)
 t.color("blue")
